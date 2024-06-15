@@ -814,6 +814,9 @@
   .nav div {
     width: 30%;
   }
+  .nav button{
+    margin-right: 2%;
+  }
   .nav img {
     width: 200px;
   }
