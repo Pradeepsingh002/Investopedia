@@ -1083,7 +1083,7 @@
   .container-8 .mini-cards {
     width: 100%;
     height: auto;
-    margin-top: 15px;
+    margin-top: 7%;
     display: flex;
     align-items: start;
     justify-content: space-between;
@@ -1096,14 +1096,23 @@
     width: 50%;
     height: auto;
   }
-
+  .container-8 .kard h5 {
+    padding-top: 0px;
+  }
   .container-8 .mini-cards .kard h2 a {
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
+  }
+  .container-8 .kard h2 {
+    padding-block: 6px;
+  }
+  .kard h6 {
+    padding-block: 6px;
   }
   .container-9 {
     width: 100%;
     height: auto;
+    margin-top: 5%;
     align-items: center;
     flex-direction: column;
   }
