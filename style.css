@@ -46,7 +46,7 @@
   justify-content: space-between;
 }
 .nav button {
-  width: 90px;
+  width: 88px;
   padding-block: 8px;
   font-weight: bold;
   border: none;
@@ -814,8 +814,8 @@
   .nav div {
     width: 30%;
   }
-  .nav button{
-    margin-right: 2%;
+  .nav button {
+    margin-right: 5px;
   }
   .nav img {
     width: 200px;
@@ -825,11 +825,14 @@
     height: auto;
     justify-content: center;
   }
-  #nav-div-none {
+  #nav-div-none-1 {
+    display: none;
+  }
+  #nav-div-none-2 {
     display: none;
   }
   .scroll-div {
-    width: 25%;
+    width: 33%;
     align-items: center;
     height: auto;
     flex-direction: column;
